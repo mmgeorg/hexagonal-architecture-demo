@@ -1,0 +1,4 @@
+### Make order
+POST http://localhost:8282/order
+
+beer

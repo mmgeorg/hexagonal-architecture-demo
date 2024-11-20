@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: bootstrap
+server:
+  port: 8282
