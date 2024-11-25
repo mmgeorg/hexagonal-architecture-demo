@@ -1,9 +1,6 @@
 # Hexagonal Architecture Demo
 
-The demo project for PartnersPayment Craft Conference.
-
-Service represent simple bar order service system 
-and implemented using Hexagonal Architecture approach.
+Service represent simple bar order service system implemented using Hexagonal Architecture approach.
 
 ## What is Hexagonal Architecture?
 Hexagonal Architecture isn’t a radically new concept; rather, it’s a shift in perspective on how we structure code, putting the domain model — our mental representation of the real world — at the centre. By focusing on the domain, Hexagonal Architecture facilitates collaboration with both technical and non-technical stakeholders, making it easier to align development with business needs. At its core, Hexagonal Architecture is a domain-centric approach. Its primary goal is to make the core domain of an application independent of technical details like APIs, databases, or user interfaces. This independence is achieved by organising the application around three main components:
